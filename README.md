@@ -12,4 +12,4 @@ This is our road map as we progress through 12 weeks of full-time training. If y
 ---
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](creativecommons.org/licenses/by-sa/4.0/).
-![Creative Commons BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![Creative Commons BY-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)
